@@ -1,13 +1,12 @@
 ### Hi there 👋 I'm Cayo Nakasato!
-## I'm looking for my first job in Front/Back End Developer, studied at <a href="https://kenzie.com.br/" target="_blank">Kenzie Acamdy Brasil<a/> and love tecnology and games! I used to work at restaurants and now looking to change life and find a job in web development!
+## I'm looking for my first job in Front/Back End Developer, studied at <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil<a/> and love tecnology and games! I used to work at restaurants and now looking to change life and find a job in web development!
 
-- 💬 Ask me about anything!
-- 🌱 I’m currently learning C#
-- 📚 My stacks are HTML | CSS | JavaScript | React.js | Redux | Context API | TypeScript | Node.js | Express | PostgreSQL | Django | Python
 - 🔭 I’m looking to work with a FullStack job
+- 📚 My stacks are HTML | CSS | JavaScript | React.js | Redux | Context API | TypeScript | Node.js | Express | PostgreSQL | Django | Python
+- 🌱 I’m currently learning C#
+- 💬 Ask me about anything!
 - 📫 How to reach me: cayonakasato112@gmail.com
 - 😄 Pronouns: He/Him
-
 
 
 <div align="center">
