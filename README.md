@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Cayo Nakasato!
-## I'm looking for my first job in Front/Back End Developer, studied at <a href="https://kenzie.com.br/">Kenzie Acamdy Brasil<a/> and love tecnology and games! I used to work at restaurants and now looking to change life and find a job in web development!
+## I'm looking for my first job in Front/Back End Developer, studied at <a href="https://kenzie.com.br/" target="_blank">Kenzie Acamdy Brasil<a/> and love tecnology and games! I used to work at restaurants and now looking to change life and find a job in web development!
 
 - 💬 Ask me about anything!
 - 🌱 I’m currently learning C#
